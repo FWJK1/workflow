@@ -1,16 +1,16 @@
 # Fdb version 4
-["bibtex latex_build/presentation"] 1765389510.93986 "latex_build/presentation.aux" "latex_build/presentation.bbl" "latex_build/presentation" 1765389516.79759 0
+["bibtex latex_build/presentation"] 1765389510.93986 "latex_build/presentation.aux" "latex_build/presentation.bbl" "latex_build/presentation" 1765390821.06123 0
   "/home/fitsl/symlinks/full_zotero_library.bib" 1765389481.82667 308524 2757df08f47f3b95c732d10d4310d935 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "latex_build/presentation-blx.bib" 1765389516.5604 342 5ba7332ec7ecc2dc9c6b1bd96e3d9aad "pdflatex"
-  "latex_build/presentation.aux" 1765389516.55606 5399 cd5a60953df03c7d82a884fe0c5e6b77 "pdflatex"
+  "latex_build/presentation-blx.bib" 1765390820.91835 342 5ba7332ec7ecc2dc9c6b1bd96e3d9aad "pdflatex"
+  "latex_build/presentation.aux" 1765390820.91835 5399 cd5a60953df03c7d82a884fe0c5e6b77 "pdflatex"
   (generated)
   "latex_build/presentation.bbl"
   "latex_build/presentation.blg"
   (rewritten before read)
-["pdflatex"] 1765389513.82013 "/home/fitsl/docs/story-time-12.10.25/latex/presentation.tex" "presentation.pdf" "presentation" 1765389516.79834 0
+["pdflatex"] 1765390819.40223 "/home/fitsl/docs/story-time-12.10.25/latex/presentation.tex" "presentation.pdf" "presentation" 1765390821.06149 0
   "/etc/texmf/web2c/texmf.cnf" 1764966804.58315 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/fitsl/docs/story-time-12.10.25/latex/presentation.tex" 1765389504.05748 7775 96b3362ff1fad89593aaa7b9f0e484a8 ""
+  "/home/fitsl/docs/story-time-12.10.25/latex/presentation.tex" 1765390819.14265 7783 1869e6f6be629a0fb73306730686a1df ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -244,13 +244,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1764967555 6800790 5b96aa704bc6b9ce1113c14325830a56 ""
   "figures/gender_bar.png" 1765388767.09285 23934 dfba6d7f7f3bf47d459ebbca7b99f582 ""
   "images/Elves_over.png" 1765135402.77115 75128 ec666eb8cd9b9a3c2e5bc12719e7a14d ""
-  "latex_build/presentation.aux" 1765389516.55606 5399 cd5a60953df03c7d82a884fe0c5e6b77 "pdflatex"
+  "latex_build/presentation.aux" 1765390820.91835 5399 cd5a60953df03c7d82a884fe0c5e6b77 "pdflatex"
   "latex_build/presentation.bbl" 1765389510.97242 5019 160a80687731ef681862f1369ec1a5c1 "bibtex latex_build/presentation"
-  "latex_build/presentation.nav" 1765389516.56473 2617 f0b86000e97dc693284c2b67708fe26f "pdflatex"
-  "latex_build/presentation.out" 1765389516.5604 831 eaa4004405e6aa3733b69e58a39403f8 "pdflatex"
-  "latex_build/presentation.run.xml" 1765389516.56473 2624 17b155fd556592a3e12c5f676082e1b8 "pdflatex"
-  "latex_build/presentation.toc" 1765389516.56473 216 db3ea34e7f184a2fa0fa483181727678 "pdflatex"
-  "presentation.tex" 1765389504.05748 7775 96b3362ff1fad89593aaa7b9f0e484a8 ""
+  "latex_build/presentation.nav" 1765390820.92264 2617 f0b86000e97dc693284c2b67708fe26f "pdflatex"
+  "latex_build/presentation.out" 1765390820.91835 831 eaa4004405e6aa3733b69e58a39403f8 "pdflatex"
+  "latex_build/presentation.run.xml" 1765390820.92264 2624 17b155fd556592a3e12c5f676082e1b8 "pdflatex"
+  "latex_build/presentation.toc" 1765390820.92264 216 db3ea34e7f184a2fa0fa483181727678 "pdflatex"
+  "presentation.tex" 1765390819.14265 7783 1869e6f6be629a0fb73306730686a1df ""
   (generated)
   "latex_build/presentation-blx.bib"
   "latex_build/presentation.aux"

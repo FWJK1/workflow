@@ -1,6 +1,0 @@
-Title: (Work)Flow States: How are we doing (what we are doing)?
-
-Abstract: Everyone's doing something, almost all of us on computer. But despite this commonality, we often talk more what we are doing than how we are doing it. So I'll start with me: 
-1. I argue that we should be intentional about how we use a computer for both moral and practical reasons, and claim that generally: relying on AI is bad, relying on corporate or subscription products is bad, not having guaranteed control and access and storage of your own labor is bad; automating tasks is good, reproducibility is good, modularity is good, open source is good.
-2. I walk through the particulars of the workflow these arguments have lead *me* to, including note-taking apps, flash cards, citation managers, local latex, a pipeline mentality, and general coding and modularity principles. 
-I don't think we do nearly enough of this in the CSDS environment and feel like I've had to struggle through getting tools and skillset built up and have seen other people either similarly struggle or just work in a haphazard manner and I think this will help with that.
