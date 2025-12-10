@@ -1,0 +1,16 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+from src.wrangling.data_clean import clean_process_data
+
+
+def chart_gender():
+    df = clean_process_data()
+    gender_count = df.groupby('gender')['count'].sum().reset_index()
+    sns.barplot(data=gender_count, x='gender', y='count')
+    plt.show()
+
+
+if __name__ == "__main__":
+    chart_gender()
