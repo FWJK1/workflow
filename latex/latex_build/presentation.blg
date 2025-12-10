@@ -22,44 +22,44 @@ Database file #2: /home/fitsl/symlinks/full_zotero_library.bib
 Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 3 entries,
+You've used 4 entries,
             6399 wiz_defined-function locations,
-            1218 strings with 9698 characters,
-and the built_in function-call counts, 11905 in all, are:
-= -- 564
-> -- 696
-< -- 75
-+ -- 630
-- -- 525
-* -- 631
-:= -- 1502
+            1234 strings with 10803 characters,
+and the built_in function-call counts, 21352 in all, are:
+= -- 1189
+> -- 1086
+< -- 121
++ -- 1059
+- -- 811
+* -- 1323
+:= -- 2629
 add.period$ -- 0
-call.type$ -- 3
-change.case$ -- 13
-chr.to.int$ -- 96
-cite$ -- 4
-duplicate$ -- 914
-empty$ -- 1053
-format.name$ -- 47
-if$ -- 2130
+call.type$ -- 4
+change.case$ -- 23
+chr.to.int$ -- 126
+cite$ -- 6
+duplicate$ -- 1743
+empty$ -- 1839
+format.name$ -- 114
+if$ -- 3855
 int.to.chr$ -- 0
-int.to.str$ -- 3
+int.to.str$ -- 5
 missing$ -- 0
-newline$ -- 64
-num.names$ -- 41
-pop$ -- 689
+newline$ -- 110
+num.names$ -- 82
+pop$ -- 1020
 preamble$ -- 1
-purify$ -- 14
+purify$ -- 29
 quote$ -- 0
-skip$ -- 348
+skip$ -- 551
 stack$ -- 0
-substring$ -- 1174
-swap$ -- 292
-text.length$ -- 81
-text.prefix$ -- 2
+substring$ -- 2479
+swap$ -- 516
+text.length$ -- 121
+text.prefix$ -- 3
 top$ -- 1
-type$ -- 90
+type$ -- 124
 warning$ -- 0
-while$ -- 160
+while$ -- 275
 width$ -- 0
-write$ -- 62
+write$ -- 107

@@ -9,7 +9,7 @@ def chart_gender():
     df = clean_process_data()
     gender_count = df.groupby('gender')['count'].sum().reset_index()
     sns.barplot(data=gender_count, x='gender', y='count')
-    plt.show()
+    plt.savefig("latex/figures/gender_bar.png")
 
 
 if __name__ == "__main__":

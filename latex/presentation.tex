@@ -102,7 +102,7 @@
                 \item \textbf{Version Control}
                 \item \textbf{Regular Control}
                 \item \textbf{Ongoing Access}
-                \item \textbf{\textit{Better Pipelining}}
+                \item \textbf{\textit{Clearer opportunities for improvement}}
                 \item \textbf{Fun!}
             \end{itemize}
         \end{column}
@@ -111,7 +111,6 @@
         \end{column}
     \end{columns}
 \end{frame}
-
 
 \section{What I Do: Learning Tools}
 
@@ -122,7 +121,6 @@
         \item Clarified with wikipedia, textbooks, youtube, AI
         \item Categorize, Connect, Store, Label
         \item Importance of not being a freak about it.
-        \item Live Demo
     \end{itemize}
 \end{frame}
 
@@ -140,12 +138,14 @@
         \item Obsidian $\to$ ANKI
         \item Flashcards of formulas, phrases, ideas that I think will anchor my memory for things that are important to me
         \item Importance of not being a freak about it
-        \item Brief live demo
     \end{itemize}
 \end{frame}
 
-\section{What I Do: Coding, Paths, Figures, Latex}
+\begin{frame}{Live Demo}
+    Live Demo
+\end{frame}
 
+\section{What I Do: Coding, Paths, Figures, Latex}
 \begin{frame}{Create}
     \centering
     \textbf{The Pipeline}: experiment ideas in Obsidian turn into code in \texttt{src} uses data in \texttt{data} to make figures in \texttt{latex/figures} which \texttt{latex/project.tex}, possibly drafted in Obsidian, complies to share results.
@@ -163,10 +163,10 @@
         \item \textbf{DRY}: Be kind to your future self! Like getting a glass of water after going out drinking.
         \item \textbf{Modular}: Organized functionality = iterable functionality
         \item \textbf{Paths}: Never raw strings, (python: Pathlib) and as limited absolute paths as possible
-        \item \textbf{Reproducibility}: if in python, use conda or at least a pip list.
+        \item \textbf{Reproducibility}: if in python, use conda/uv or at least a regularly pip list.
         \item Make stuff so that you can use it in later projects!
-        \item Tests, Types
-        \item Doing everything like you want to get better at doing it.
+        \item Tests, Types, \textbf{Dataclasses}
+        \item \textbf{Doing everything like you want to be better at doing it next time.}
     \end{itemize}
 \end{frame}
 
@@ -184,25 +184,36 @@
         \item Write your own snippets and macros
         \item Latex extensions in vs code make it really easy
         \item Exporting full zotero bib allows for really quick citations.
+        \item Live Demo!
     \end{itemize}
 \end{frame}
 
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=.8\textwidth]{figures/gender_bar.png}
+    \caption{Gender distribution, which we will here claim has something to do with $R^2$ \cite{barabasiEmergenceScalingRandom1999}}
+    \label{fig:gender_bar}
+\end{figure}
 
 \begin{frame}{Version Control: GIT}
     \begin{itemize}
         \item Commit when you might break something; push when you've changed or fixed something; PR when you've finished a defined subproject
         \item Easy to link an employer a cool github.
         \item Easy to bring in collaborators.
-        \item BAD: in proprietary github. GOOD: in VS code extension. BEST: in terminal
+        \item Test: guess the GOODNESS levels of these three options:
+              \begin{itemize}
+                  \item VS Code extension
+                  \item Terminal
+                  \item Github GUI
+              \end{itemize}
     \end{itemize}
 \end{frame}
-
 
 \section{}
 
 \begin{frame}[allowframebreaks]{References}
     \printbibliography
 \end{frame}
-
 
 \end{document}

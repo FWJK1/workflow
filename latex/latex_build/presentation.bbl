@@ -17,6 +17,52 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{barabasiEmergenceScalingRandom1999}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BAL}{%
+         family={Barab{\'a}si},
+         familyi={B\bibinitperiod},
+         given={Albert-L{\'a}szl{\'o}},
+         giveni={A\bibinithyphendelim L\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Albert},
+         familyi={A\bibinitperiod},
+         given={R{\'e}ka},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{networks,unread}
+    \strng{namehash}{BALAR1}
+    \strng{fullhash}{BALAR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Systems as diverse as genetic networks or the World Wide Web are best described as networks with complex topology. A common property of many large networks is that the vertex connectivities follow a scale-free power-law distribution. This feature was found to be a consequence of two generic mechanisms: (i) networks expand continuously by the addition of new vertices, and (ii) new vertices attach preferentially to sites that are already well connected. A model based on these two ingredients reproduces the observed stationary scale-free distributions, which indicates that the development of large networks is governed by robust self-organizing phenomena that go beyond the particulars of the individual systems.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.286.5439.509
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{5439}
+    \field{pages}{509\bibrangedash 512}
+    \field{title}{Emergence of {{Scaling}} in {{Random Networks}}}
+    \field{volume}{286}
+    \field{langid}{english}
+    \verb{file}
+    \verb C:\Users\fitsl\Zotero\storage\9GLIAPU9\Barabási and Albert - 1999 -
+    \verb Emergence of Scaling in Random Networks.pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{month}{10}
+    \field{year}{1999}
+    \field{urlday}{29}
+    \field{urlmonth}{01}
+    \field{urlyear}{2025}
+  \endentry
+
   \entry{HowGoogleTook}{misc}{}
     \field{labeltitlesource}{title}
     \field{sortinit}{H}
