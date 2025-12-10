@@ -277,6 +277,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.s
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
@@ -486,9 +488,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvro7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvro8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvrc7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvrc7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 OUTPUT latex_build/presentation.nav
 OUTPUT latex_build/presentation.toc

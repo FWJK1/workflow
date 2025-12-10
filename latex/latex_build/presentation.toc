@@ -1,3 +1,3 @@
-\beamer@sectionintoc {2}{Philosophy: Modular, Replicable, Automated}{3}{0}{1}
-\beamer@sectionintoc {3}{What I Do: Learning Tools}{7}{0}{2}
-\beamer@sectionintoc {4}{What I Do: Coding, Paths, Figures, Latex}{11}{0}{3}
+\beamer@sectionintoc {1}{Philosophy: Modular, Replicable, Automated}{3}{0}{1}
+\beamer@sectionintoc {2}{What I Do: Learning Tools}{7}{0}{2}
+\beamer@sectionintoc {3}{What I Do: Coding, Paths, Figures, Latex}{11}{0}{3}
